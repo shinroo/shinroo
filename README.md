@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**shinroo/shinroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 I’m currently working on
 
-Here are some ideas to get you started:
+Beneficiary and service managment for frontline staff in Norwegian Refugee Council. Online media analysis tool for researchers at Deutsches Institut für Menschenrechte.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I’m currently learning
+
+1. Angular and more about frontend technology in general
+2. Kubernetes
+
+#### 👯 I’m looking to collaborate on
+
+Open-source social good projects or anything to do with linguistics
+
+#### 💬 Ask me about
+
+Free software, linguistics, travel
+
+#### 📫 How to reach me
+
+![LinkedIn](https://www.linkedin.com/in/robertfocke/)

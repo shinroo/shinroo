@@ -19,4 +19,4 @@ Free software, linguistics, travel
 
 #### 📫 How to reach me
 
-![LinkedIn](https://www.linkedin.com/in/robertfocke/)
+[LinkedIn](https://www.linkedin.com/in/robertfocke/)

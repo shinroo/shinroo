@@ -2,16 +2,18 @@
 
 #### 🔭 I’m currently working on
 
-Beneficiary and service managment for frontline staff in Norwegian Refugee Council. Online media analysis tool for researchers at Deutsches Institut für Menschenrechte.
+Helping my colleagues at the Norwegian Refugee Council be able to focus more on their great work helping refugees, internally displaced people and other sensitive groups get access to services they need.
+
+Making trends in online media visible to my research colleagues at the German Institute for Human Rights using an open source analytics stack.
 
 #### 🌱 I’m currently learning
 
-1. Angular and more about frontend technology in general
-2. Kubernetes
+- Angular
+- Kubernetes
 
 #### 👯 I’m looking to collaborate on
 
-Open-source social good projects or anything to do with linguistics
+Open-source social good projects or anything to do with linguistics, botany or physics.
 
 #### 💬 Ask me about
 

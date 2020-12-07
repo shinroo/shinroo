@@ -2,9 +2,9 @@
 
 #### 🔭 I’m currently working on
 
-Helping my colleagues at the Norwegian Refugee Council be able to focus more on their great work helping refugees, internally displaced people and other sensitive groups get access to services they need.
+1. Helping my colleagues at the Norwegian Refugee Council be able to focus more on their great work helping refugees, internally displaced people and other sensitive groups get access to services they need.
 
-Making trends in online media visible to my research colleagues at the German Institute for Human Rights using an open source analytics stack.
+2. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
 
 #### 🌱 I’m currently learning
 

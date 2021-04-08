@@ -9,6 +9,7 @@
 #### 🌱 I’m currently learning
 
 - Angular
+- React
 - Kubernetes
 
 #### 👯 I’m looking to collaborate on

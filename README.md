@@ -8,7 +8,7 @@
 
 #### 🌱 I’m currently learning
 
-- Angular
+- Go
 - React
 - Kubernetes
 

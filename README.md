@@ -6,6 +6,8 @@
 
 2. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
 
+3. Making sales emails more impactful and easier to write (from Dec 2021 onward with [mesg.ai](https://mesg.ai))
+
 #### 🌱 I’m currently learning
 
 - Go

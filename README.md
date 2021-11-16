@@ -10,8 +10,7 @@
 
 #### 🌱 I’m currently learning
 
-- Go
-- Kubernetes
+- Discrete Mathematics
 
 #### 👯 I’m looking to collaborate on
 

@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on
 
-1. Making sales emails more impactful and easier to write (from Dec 2021 onward with [mesg.ai](https://mesg.ai))
+1. Making sales emails more impactful and easier to write (With [mesg.ai](https://mesg.ai))
 
 2. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
 

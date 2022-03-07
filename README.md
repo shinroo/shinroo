@@ -8,7 +8,7 @@
 
 #### 🌱 I’m currently learning
 
-- Discrete Mathematics
+- AWS
 
 #### 👯 I’m looking to collaborate on
 

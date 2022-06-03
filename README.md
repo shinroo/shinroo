@@ -2,9 +2,7 @@
 
 #### 🔭 I’m currently working on
 
-1. Automating prospect research to assist in personalising outreach (With [mesg.ai](https://mesg.ai))
-
-2. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
+1. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
 
 #### 🌱 I’m currently learning
 

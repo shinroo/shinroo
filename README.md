@@ -2,11 +2,14 @@
 
 #### 🔭 I’m currently working on
 
-1. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
+1. The backend platform of the leading Muslim dating and marriage app with over 6 million single Muslims looking for love. 
 
-#### 🌱 I’m currently learning
+2. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
 
-- AWS
+#### 🌱 I’m currently studying towards...
+
+- B.Sc. Computer Science (Data Science) at University of London
+- AWS Certification
 
 #### 👯 I’m looking to collaborate on
 

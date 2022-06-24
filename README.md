@@ -6,9 +6,8 @@
 
 2. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
 
-#### 🌱 I’m currently studying towards...
+#### 🌱 I’m currently learning
 
-- B.Sc. Computer Science (Data Science) at University of London
 - AWS Certification
 
 #### 👯 I’m looking to collaborate on
@@ -21,4 +20,4 @@ Free software, linguistics, travel
 
 #### 📫 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/robertfocke/)
+[LinkedIn](https://www.linkedin.com/in/robertfocke/) [Cord](https://cord.co/candidate/account/u/candidate/50287)

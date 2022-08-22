@@ -6,9 +6,10 @@
 
 2. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
 
-#### 🌱 I’m currently learning
+#### 🌱 I’m currently learning/studying
 
 - AWS Certification
+- B.Sc. Computer Science
 
 #### 👯 I’m looking to collaborate on
 

@@ -1,15 +1,18 @@
 ### Hi there 👋
 
+I'm Rob, a generalist backend and data engineer. I've got over 7 years of industry experience in various roles and I'm excited to use my technical skills to solve real world problems and help people.
+
 #### 🔭 I’m currently working on
 
 1. The backend platform of the leading Muslim dating and marriage app with over 6 million single Muslims looking for love. 
 
-2. Building a platform for inclusive children's books, accessible in multiple languages and all around the world.
+2. Building a user-friendly personal finance application to help people set up and maintain budgets.
 
 #### 🌱 I’m currently learning/studying
 
-- AWS Certification
 - B.Sc. Computer Science
+- AWS Certified Cloud Practitioner
+- Linguistic Fundamentals
 
 #### 👯 I’m looking to collaborate on
 

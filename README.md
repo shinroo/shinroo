@@ -14,6 +14,14 @@ I'm Rob, a generalist backend and data engineer. I've got over 7 years of indust
 - AWS Certified Cloud Practitioner
 - Linguistic Fundamentals
 
+#### 🦾 My preferred tech stack
+
+|Category|Preferences|
+|---|---|
+|👨🏻‍💻 Programming languages|Go, Python|
+|🌧️ Clouds|AWS, Digital Ocean|
+|💾 Databases|Postgres, DynamoDB, MongoDB|
+
 #### 👯 I’m looking to collaborate on
 
 Open-source social good projects or anything to do with linguistics, botany or physics.

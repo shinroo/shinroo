@@ -12,7 +12,6 @@ I'm Rob, a generalist backend and data engineer. I've got over 7 years of indust
 
 - B.Sc. Computer Science
 - AWS Certified Cloud Practitioner
-- Linguistic Fundamentals
 
 #### 🦾 My preferred tech stack
 

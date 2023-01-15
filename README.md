@@ -17,9 +17,9 @@ I'm Rob, a generalist backend and data engineer. I've got over 7 years of indust
 
 |Category|Preferences|
 |---|---|
-|👨🏻‍💻 Programming languages|Go, Python|
+|👨🏻‍💻 Programming languages|Go, Python, JavaScript|
 |🌧️ Clouds|AWS, Digital Ocean|
-|💾 Databases|Postgres, DynamoDB, MongoDB|
+|💾 Databases|Postgres, DynamoDB, MongoDB, Neptune, Redis|
 
 #### 👯 I’m looking to collaborate on
 

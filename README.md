@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rob, a generalist backend and data engineer. I've got over 7 years of industry experience in various roles and I'm excited to use my technical skills to solve real world problems and help people.
+I'm Rob, a specialist backend and data engineer. I've got over 7 years of industry experience in various roles and I'm excited to use my technical skills to solve real world problems and help people.
 
 #### 🔭 I’m currently working on
 

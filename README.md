@@ -18,7 +18,7 @@ I'm Rob, a specialist backend and data engineer. I've got over 7 years of indust
 |Category|Preferences|
 |---|---|
 |👨🏻‍💻 Programming languages|Go, Python, JavaScript|
-|🌧️ Clouds|AWS, Digital Ocean|
+|🌧️ Cloud Infrastructure|AWS, Digital Ocean, Terraform|
 |💾 Databases|Postgres, DynamoDB, MongoDB, Neptune, Redis|
 
 #### 👯 I’m looking to collaborate on

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rob, a specialist backend and data engineer. I've got over 7 years of industry experience in various roles and I'm excited to use my technical skills to solve real world problems and help people.
+I'm Rob, a Software Engineer specialising in Backend Web Development. I have over 7 years of industry experience in NGOs, public sector research, corporate software R&D, consumer and sales tech. I've also worked as a Data Engineer before and I'm well versed in cloud technologies.
 
 #### 🔭 I’m currently working on
 

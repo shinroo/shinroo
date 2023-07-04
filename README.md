@@ -4,7 +4,7 @@ I'm Rob, a Software Engineer specialising in Backend Web Development. I have ove
 
 #### 🔭 I’m currently working on
 
-Muzz, the world's leading Muslim marriage application. I work as a Senior Backend Engineer at Muzz and I'm helping to develop backend services and manage infrastructure on AWS using Terraform that power the experience of more than 8 million members worldwide.
+Muzz, the world's leading Muslim marriage application. I work as a Senior Backend Engineer at Muzz and I'm helping to develop backend services and manage infrastructure on AWS using Terraform that power the experience of more than 9 million members worldwide.
 
 #### 🦾 My preferred tech stack
 

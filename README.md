@@ -2,9 +2,13 @@
 
 I'm Rob, a Software Engineer specialising in Backend Web Development. I have over 8 years of industry experience working with NGOs, public sector research, corporate software R&D, consumer and sales tech. I've also worked as a Data Engineer before and I'm well versed in cloud technologies.
 
+I like to work on data-intensive applications and enjoy providing insights and value from business data.
+
 #### 🔭 I’m currently working on
 
-Muzz, the world's leading Muslim marriage application. I work as a Senior Backend Engineer at Muzz and I'm helping to develop backend services and manage infrastructure on AWS using Terraform that power the experience of more than 10 million members worldwide.
+A new social network to connect Muslims worldwide, [Muzz Social](https://muzz.com/en-US/social/).
+
+![Muzz Social Landing Page](https://github.com/shinroo/shinroo/assets/15915453/f1e41f73-954f-4642-81f7-c4441347db80)
 
 #### 🦾 My preferred tech stack
 

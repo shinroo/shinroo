@@ -16,7 +16,7 @@ A new social network to connect Muslims worldwide, [Muzz Social](https://muzz.co
 |---|---|
 |👨🏻‍💻 Programming languages|<ul><li>Go</li><li>Python</li><li>TypeScript</li></ul>|
 |🌧️ Cloud Infrastructure|<ul><li>AWS</li><li>Digital Ocean</li><li>Terraform</li></ul>|
-|💾 Databases|<ul><li>Postgres</li><li>DynamoDB</li><li>MongoDB</li><li>Neptune</li><li>Redis</li></ul>|
+|💾 Databases|<ul><li>Postgres</li><li>DynamoDB</li><li>Neptune</li><li>Redis</li></ul>|
 
 #### 👯 I’m looking to collaborate on
 

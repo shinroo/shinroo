@@ -12,9 +12,11 @@ A new social network to connect Muslims worldwide, [Muzz Social](https://muzz.co
 
 #### 🦾 My preferred tech stack
 
+While I feel confident in my ability to use whatever tools/technologies the project may require - I do have some tools that I've really enjoyed using before:
+
 |Category|Preferences|
 |---|---|
-|👨🏻‍💻 Programming languages|<ul><li>Go</li><li>Python</li><li>TypeScript</li></ul>|
+|👨🏻‍💻 Programming languages|<ul><li>Go</li><li>Python</li></ul>|
 |🌧️ Cloud Infrastructure|<ul><li>AWS</li><li>Digital Ocean</li><li>Terraform</li></ul>|
 |💾 Databases|<ul><li>Postgres</li><li>DynamoDB</li><li>Neptune</li><li>Redis</li></ul>|
 

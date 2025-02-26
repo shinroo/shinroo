@@ -17,8 +17,8 @@ While I feel confident in my ability to use whatever tools/technologies the proj
 |Category|Preferences|
 |---|---|
 |👨🏻‍💻 Programming languages|<ul><li>Go</li><li>Python</li></ul>|
-|🌧️ Cloud Infrastructure|<ul><li>AWS</li><li>Digital Ocean</li><li>Terraform</li></ul>|
-|💾 Databases|<ul><li>Postgres</li><li>DynamoDB</li><li>Neptune</li><li>Redis</li></ul>|
+|🌧️ Cloud Infrastructure|<ul><li>AWS</li><li>Digital Ocean</li><li>Terraform</li><li>Kubernetes</li></ul>|
+|💾 Databases|<ul><li>Postgres</li><li>DynamoDB</li><li>Neo4j</li><li>Redis</li></ul>|
 
 #### 👯 I’m looking to collaborate on
 
@@ -26,7 +26,7 @@ Open-source social good projects or anything to do with linguistics, botany or p
 
 #### 💬 Ask me about
 
-Free software, linguistics, travel
+Free software, linguistics, travel, botany
 
 #### 📫 How to reach me
 

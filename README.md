@@ -2,13 +2,13 @@
 
 I'm Rob, a Software Engineer specialising in Backend Web Development. I have over 10 years of industry experience working with NGOs, public sector research, corporate software R&D, consumer and sales tech. I've also worked as a Data Engineer before and I'm well versed in cloud technologies.
 
-I like to work on data-intensive applications and enjoy providing insights and value from business data.
+More recently I've taken on leadership responsibilities and I've enjoyed leading a team of talented backend engineers.
 
 #### 🔭 I’m currently working on
 
-A new social network to connect Muslims worldwide, [Muzz Social](https://muzz.com/en-US/social/).
+A new social network to connect Muslims worldwide, [Jamaa](https://jamaa.com/).
 
-![Muzz Social Landing Page](https://github.com/shinroo/shinroo/assets/15915453/f1e41f73-954f-4642-81f7-c4441347db80)
+<img width="1905" height="873" alt="image" src="https://github.com/user-attachments/assets/c960a748-e6fa-46d8-85c2-accccd5b75d5" />
 
 #### 🦾 My preferred tech stack
 

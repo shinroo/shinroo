@@ -4,12 +4,6 @@ I'm Rob, a Software Engineer specialising in Backend Web Development. I have ove
 
 More recently I've taken on leadership responsibilities and I've enjoyed leading a team of talented backend engineers.
 
-#### 🔭 I’m currently working on
-
-A new social network to connect Muslims worldwide, [Jamaa](https://jamaa.com/).
-
-<img width="1905" height="873" alt="image" src="https://github.com/user-attachments/assets/c960a748-e6fa-46d8-85c2-accccd5b75d5" />
-
 #### 🦾 My preferred tech stack
 
 While I feel confident in my ability to use whatever tools/technologies the project may require - I do have some tools that I've really enjoyed using before:

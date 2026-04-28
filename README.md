@@ -10,7 +10,7 @@ While I feel confident in my ability to use whatever tools/technologies the proj
 
 |Category|Preferences|
 |---|---|
-|👨🏻‍💻 Programming languages|<ul><li>Go</li><li>Python</li></ul>|
+|👨🏻‍💻 Programming languages|<ul><li>Go</li><li>Typescript</li></ul>|
 |🌧️ Cloud Infrastructure|<ul><li>AWS</li><li>Digital Ocean</li><li>Terraform</li><li>Kubernetes</li></ul>|
 |💾 Databases|<ul><li>Postgres</li><li>DynamoDB</li><li>Neo4j</li><li>Redis</li></ul>|
 

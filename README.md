@@ -2,7 +2,7 @@
 
 I'm Rob, a Software Engineer specialising in Backend Web Development. I have over 10 years of industry experience working with NGOs, public sector research, corporate software R&D, consumer and sales tech. I've also worked as a Data Engineer before and I'm well versed in cloud technologies.
 
-More recently I've taken on leadership responsibilities and I've enjoyed leading a team of talented backend engineers.
+More recently I've taken on leadership responsibilities and I've enjoyed leading a team of talented software engineers working across backend, mobile, web and infrastructure.
 
 #### 🦾 My preferred tech stack
 
